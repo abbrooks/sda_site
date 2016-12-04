@@ -1,7 +1,7 @@
 require 'rubygems'
 require 'sinatra'
 
-env = ENV['ENV'] || 'development'
+env = ENV['RAILS_ENV'] || 'development'
 set :environment, env.to_sym
 disable :run, :reload
 
