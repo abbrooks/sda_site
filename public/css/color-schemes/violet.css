@@ -1,0 +1,285 @@
+::selection {
+  color: white;
+  background: #8d38c0; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  color: white;
+  background: #8d38c0; /* Gecko Browsers */
+}
+
+.ip-header .ip-loader svg path.ip-loader-circle{
+  stroke: #8d38c0;
+}
+
+.color-overlay {
+    
+}
+
+a:hover {
+    color: #8d38c0;
+}
+
+a:active {
+    color: #8d38c0;
+}
+
+a:focus{
+  color: #8d38c0;
+}
+
+
+.sticky-navigation{
+
+    /*border-bottom: solid 1px #8d38c0 ;*/
+}
+
+.sticky-navigation .main-navigation .current a{
+    color: #8d38c0;
+}
+
+.sticky-navigation .main-navigation li a:hover{
+  color: #8d38c0;
+  background: none;
+}
+
+.sticky-navigation .main-navigation li a:active{
+  color: #8d38c0;
+  background: none;
+}
+
+.sticky-navigation .main-navigation li a:focus{
+  color: #8d38c0;
+  background: none;
+}
+
+.navbar-toggle .icon-bar{
+  background-color: #8d38c0;
+}
+
+
+.services .single-service .icon-container .icon{
+
+    color: #8d38c0;
+}
+
+.hvr-ripple-out:before{
+    border: #8d38c0 solid 1px;
+}
+ 
+.progress .bar {
+    background: #8d38c0;
+}
+
+ .pf-filter li.active{
+  color: #8d38c0;
+}
+
+.portfolio-hover{
+    background-color: rgba(141, 56, 192, .7);
+}
+
+.portfolio-project-info li a:hover {
+    color: #8d38c0;
+}
+
+.testimonials .owl-theme .owl-controls .owl-page span {
+    background: #8d38c0;
+    border-radius: 20%;
+    max-height: 2px;
+}
+
+.clients .owl-theme .owl-controls .owl-page span {
+    background: #8d38c0;
+    border-radius: 20%;
+    max-height: 2px;
+}
+
+.team-hover {
+    border: 2px solid #8d38c0;
+    background-color: rgba(141, 56, 192, .7);
+}
+
+.team-hover .s-link a {
+    text-align: center;
+    color: #222;
+}
+
+.desk p {
+    color: #000;
+}
+
+.team .owl-theme .owl-controls .owl-page span {
+    background: #8d38c0;
+}
+
+.special-package{
+  color: #8d38c0;
+}
+
+.special-package .price h2,
+.special-package .price h2 span,
+.special-package .price p 
+{
+  color: #8d38c0;
+}
+
+.special-package .hvr-bounce-to-right:before{
+  background: #8d38c0;
+}
+
+.special-package .single-package{
+  border: 1px solid #8d38c0;
+}
+
+.special-package .btn-price{
+  color: #8d38c0;
+  border-color: #8d38c0;
+}
+
+.special-package .btn-price:hover{
+  color: #fff;
+}
+
+
+.btn-lines .line-top,
+.btn-lines .line-bottom,
+.btn-lines .line-left,
+.btn-lines .line-right {
+  background: #8d38c0;
+}
+
+.funfactor .icon-container i {
+    color: #8d38c0;
+}
+
+.blog-title :hover{
+    color: #8d38c0;
+}
+
+.blog-post-title :hover {
+    color: #8d38c0; 
+}
+
+.author a :hover {
+  color: #8d38c0;
+  
+ }
+
+ .read-more :hover{
+    color: #8d38c0;
+ }
+
+.blog-list-item-detail a:hover{
+  color: #8d38c0;
+}
+
+.blog-item-detail a:hover{
+  color: #8d38c0;
+}
+
+.input-field:active{
+  border: 1px solid  #8d38c0;
+  border-radius: 5px;
+}
+
+.input-field:focus {
+  border-color: #8d38c0;
+}
+
+.clearlist li a:hover  {
+    color: #8d38c0;
+}
+
+.tags a:hover {
+   color: #8d38c0; 
+  border: 1px solid #8d38c0;
+}
+
+.article-nav a i:hover{
+  color: #8d38c0;
+}
+
+/**/
+
+.standard-button {
+    background: #B58C82;
+}
+
+.standard-button2 {
+    background:  #8d38c0;
+}
+
+.standard-button2:hover {
+    background: #fff;
+}
+
+.btn-primary:focus, 
+.btn-primary:active, 
+.btn-primary.active, 
+.open .dropdown-toggle.btn-primary {
+    background: #005885;
+    border-color: inherit;
+}
+
+.colored-line,
+.colored-line-left {
+    background:  #8d38c0;
+}
+
+.main-color {
+    color:  #8d38c0;
+}
+
+.theme-color {
+    color:  #8d38c0;
+}
+
+.theme-color-bg {
+    background-color:  #8d38c0;
+}
+
+.color-bg {
+	background: rgb(127,111,91);
+	color: #FFFFFF;
+}
+
+.contact .contact-button {
+    border: 2px solid #656565;
+    color: #958257;
+}
+
+.contact .contact-button:hover {
+    background:  #8d38c0;
+}
+
+.contact .contact-box .input-box:active,
+.contact .contact-box .textarea-box:active,
+.contact .contact-box .input-box:focus,
+.contact .contact-box .textarea-box:focus {
+    border: 1px solid  #8d38c0;
+    color: #111;
+}
+
+.social-icons li a:hover {
+    color:  #8d38c0;
+}
+
+.comment-reply .contact-box .input-box:active,
+.comment-reply .contact-box .textarea-box:active,
+.comment-reply .contact-box .input-box:focus,
+.comment-reply .contact-box .textarea-box:focus {
+    border: 1px solid  #8d38c0;
+    color: #111;
+}
+
+.contact  .contact-address i{
+  color: #8d38c0;
+}
+
+.nav-transparent{
+  border-bottom: solid 1px transparent;
+}
+
+.list-tweets li a:hover{
+  color: #8d38c0;
+}

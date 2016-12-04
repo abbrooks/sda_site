@@ -1,0 +1,284 @@
+::selection {
+  color: white;
+  background: #ff4c83;; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  color: white;
+  background: #ff4c83;; /* Gecko Browsers */
+}
+
+.ip-header .ip-loader svg path.ip-loader-circle{
+  stroke: #ff4c83;;
+}
+
+.color-overlay {
+    
+}
+
+a:hover {
+    color: #ff4c83;;
+}
+
+a:active {
+    color: #ff4c83;;
+}
+
+a:focus{
+  color: #ff4c83;;
+}
+
+
+.sticky-navigation{
+
+    /*border-bottom: solid 1px #ff4c83; ;*/
+}
+
+.sticky-navigation .main-navigation .current a{
+    color: #ff4c83;;
+}
+
+.sticky-navigation .main-navigation li a:hover{
+  color: #ff4c83;;
+  background: none;
+}
+
+.sticky-navigation .main-navigation li a:active{
+  color: #ff4c83;;
+  background: none;
+}
+
+.sticky-navigation .main-navigation li a:focus{
+  color: #ff4c83;;
+  background: none;
+}
+
+.navbar-toggle .icon-bar{
+  background-color: #ff4c83;;
+}
+
+
+.services .single-service .icon-container .icon{
+
+    color: #ff4c83;;
+}
+
+.hvr-ripple-out:before{
+    border: #ff4c83; solid 1px;
+}
+ 
+.progress .bar {
+    background: #ff4c83;;
+}
+
+ .pf-filter li.active{
+  color: #ff4c83;;
+}
+
+.portfolio-hover{
+    background-color: rgba(255, 76, 131, .7);
+}
+
+.portfolio-project-info li a:hover {
+    color: #ff4c83;;
+}
+
+.testimonials .owl-theme .owl-controls .owl-page span {
+    background: #ff4c83;;
+    border-radius: 20%;
+    max-height: 2px;
+}
+
+.clients .owl-theme .owl-controls .owl-page span {
+    background: #ff4c83;;
+    border-radius: 20%;
+    max-height: 2px;
+}
+
+.team-hover {
+    border: 2px solid #ff4c83;;
+    background-color: rgba(255, 76, 131, .7);
+}
+
+.team-hover .s-link a {
+    text-align: center;
+    color: #222;
+}
+
+.desk p {
+    color: #000;
+}
+
+.team .owl-theme .owl-controls .owl-page span {
+    background: #ff4c83;;
+}
+
+.special-package{
+  color: #ff4c83;;
+}
+
+.special-package .price h2,
+.special-package .price h2 span,
+.special-package .price p 
+{
+  color: #ff4c83;;
+}
+
+.special-package .hvr-bounce-to-right:before{
+  background: #ff4c83;;
+}
+
+.special-package .single-package{
+  border: 1px solid #ff4c83;;
+}
+
+.special-package .btn-price{
+  color: #ff4c83;;
+  border-color: #ff4c83;;
+}
+
+.special-package .btn-price:hover{
+  color: #fff;
+}
+
+
+.btn-lines .line-top,
+.btn-lines .line-bottom,
+.btn-lines .line-left,
+.btn-lines .line-right {
+  background: #ff4c83;;
+}
+
+.funfactor .icon-container i {
+    color: #ff4c83;;
+}
+
+.blog-title :hover{
+    color: #ff4c83;;
+}
+
+.blog-post-title :hover {
+    color: #ff4c83;; 
+}
+
+.author a :hover {
+  color: #ff4c83;;
+  
+ }
+
+ .read-more :hover{
+    color: #ff4c83;;
+ }
+
+.blog-list-item-detail a:hover{
+  color: #ff4c83;;
+}
+
+.blog-item-detail a:hover{
+  color: #ff4c83;;
+}
+
+.input-field:active{
+  border: 1px solid  #ff4c83;;
+  border-radius: 5px;
+}
+
+.input-field:focus {
+  border-color: #ff4c83;;
+}
+
+.clearlist li a:hover  {
+    color: #ff4c83;;
+}
+
+.tags a:hover {
+   color: #ff4c83;; 
+  border: 1px solid #ff4c83;;
+}
+
+.article-nav a i:hover{
+  color: #ff4c83;;
+}
+
+/**/
+
+.standard-button {
+    background: #B58C82;
+}
+
+.standard-button2 {
+    background:  #ff4c83;;
+}
+
+.standard-button2:hover {
+    background: #fff;
+}
+
+.btn-primary:focus, 
+.btn-primary:active, 
+.btn-primary.active, 
+.open .dropdown-toggle.btn-primary {
+    background: #005885;
+    border-color: inherit;
+}
+
+.colored-line,
+.colored-line-left {
+    background:  #ff4c83;;
+}
+
+.main-color {
+    color:  #ff4c83;;
+}
+
+.theme-color {
+    color:  #ff4c83;;
+}
+
+.theme-color-bg {
+    background-color:  #ff4c83;;
+}
+
+.color-bg {
+	background: rgb(127,111,91);
+	color: #FFFFFF;
+}
+
+.contact .contact-button {
+    border: 2px solid #656565;
+    color: #958257;
+}
+
+.contact .contact-button:hover {
+    background:  #ff4c83;;
+}
+
+.contact .contact-box .input-box:active,
+.contact .contact-box .textarea-box:active,
+.contact .contact-box .input-box:focus,
+.contact .contact-box .textarea-box:focus {
+    border: 1px solid  #ff4c83;;
+    color: #111;
+}
+
+.social-icons li a:hover {
+    color:  #ff4c83;;
+}
+
+.comment-reply .contact-box .input-box:active,
+.comment-reply .contact-box .textarea-box:active,
+.comment-reply .contact-box .input-box:focus,
+.comment-reply .contact-box .textarea-box:focus {
+    border: 1px solid  #ff4c83;;
+    color: #111;
+}
+
+.contact  .contact-address i{
+  color: #ff4c83;;
+}
+.nav-transparent{
+  border-bottom: solid 1px transparent;
+}
+
+.list-tweets li a:hover{
+  color: #ff4c83;
+}
