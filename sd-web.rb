@@ -11,7 +11,9 @@ class SDWeb < Sinatra::Base
   post '/mail/send' do
     if(params['email'] && params['name'] && params['subject'] && params['message'])
       from = "#{params['name']}<#{params['email']}>"
-      Pony.mail(to: "inquiry@sittingduckads.com", from: from, subject: params['subject'], body: params['message'],
+      Pony.mail(to: "inquiry@sittingduckads.com", from: "SD Inquiry<inquiry@sittingduckads.com>", 
+        subject: params['subject'], body: params['message'],
+        reply_to: from,
         via: :smtp,
         via_options: {
           :address        => 'email-smtp.us-west-2.amazonaws.com',
